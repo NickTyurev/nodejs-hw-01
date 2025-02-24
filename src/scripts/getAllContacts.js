@@ -1,3 +1,10 @@
-export const getAllContacts = async () => {};
+import { readContacts } from '../utils/readContacts.js';
 
-console.log(await getAllContacts());
+
+function getAllContacts() {
+  const contacts = readContacts();
+  console.log(contacts);
+}
+
+getAllContacts();
+

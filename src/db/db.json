@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "541139de-f4c6-4406-99f9-5d1d4d7cdef0",
+    "name": "Cedric Turner",
+    "phone": "330-718-2619 x51556",
+    "email": "Rosa41@gmail.com",
+    "jobTitle": "Product Intranet Liaison"
+  },
+  {
+    "id": "e4019ede-bbc2-496a-9b36-d8ee888acf00",
+    "name": "Brendan Lesch",
+    "phone": "1-823-972-8615 x4343",
+    "email": "Charlene.Miller@gmail.com",
+    "jobTitle": "Regional Implementation Producer"
+  },
+  {
+    "id": "776c2852-98f7-44c5-97b7-d0626b51e958",
+    "name": "Rhonda Conroy",
+    "phone": "600-407-8260 x6661",
+    "email": "Arvel_Robel@hotmail.com",
+    "jobTitle": "Product Directives Technician"
+  },
+  {
+    "id": "cb406c36-54e3-48f8-884c-bd044c63f65b",
+    "name": "Mr. Shane Rolfson",
+    "phone": "359-546-5269 x6320",
+    "email": "Isaiah.Herzog@yahoo.com",
+    "jobTitle": "Customer Usability Designer"
+  },
+  {
+    "id": "c135e90b-a262-49d3-8b04-02938b4474ef",
+    "name": "Felix Jones",
+    "phone": "314.324.0391",
+    "email": "Bailee_Barton64@yahoo.com",
+    "jobTitle": "Internal Communications Supervisor"
+  }
+]
